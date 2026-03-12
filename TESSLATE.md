@@ -24,10 +24,6 @@ An SAP Fiori application.
 
 -   This app has been generated using the SAP Fiori tools - App Generator, as part of the SAP Fiori tools suite.  To launch the generated application, run the following from the generated application root folder:
 
-```
-    npm install
-    npm run start 
-```
 
 **Start Command**:
 ```bash
