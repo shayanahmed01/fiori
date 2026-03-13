@@ -24,15 +24,12 @@ An SAP Fiori application.
 
 -   This app has been generated using the SAP Fiori tools - App Generator, as part of the SAP Fiori tools suite.  To launch the generated application, run the following from the generated application root folder:
 
-
+## Development Server
 **Start Command**:
 ```bash
 npm install
 npm start -- --port 3000
 ```
 
-#### Pre-requisites:
-
-1. Active NodeJS LTS (Long Term Support) version and associated supported NPM version.  (See https://nodejs.org)
 
 
