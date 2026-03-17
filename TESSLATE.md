@@ -28,8 +28,5 @@ An SAP Fiori application.
 **Start Command**:
 ```bash
 npm install
-npm start -- --port 3000 --host 0.0.0.0
+set HOST=0.0.0.0 && npm start -- --port 3000
 ```
-
-
-
